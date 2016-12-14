@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/sdavies/Documents/GitHub/Flare Index Test Project/Output/sdavies/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Features">
+        <Entries>
+          <IndexEntry
+            Term="new">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="A_Introduction Topics/WhatsNew.htm"
+                UsedConditions=""
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+        </Entries>
+        <Links />
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Information">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="A_Introduction Topics/MoreInformation.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="New features">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="A_Introduction Topics/WhatsNew.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Read First.pdf" />
+    <Url
+      Source="A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="A_Introduction Topics/Welcome.htm" />
+    <Url
+      Source="A_Introduction Topics/WhatsNew.htm" />
+    <Url
+      Source="B_Feature Topics/Feature1.htm" />
+    <Url
+      Source="B_Feature Topics/Feature2.htm" />
+    <Url
+      Source="B_Feature Topics/Feature3.htm" />
+    <Url
+      Source="B_Feature Topics/Features.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure1.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure2.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure3.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedures.htm" />
+    <Url
+      Source="Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="Resources/Stylesheets/styles.css" />
+  </SourceUrls>
+  <SourceLinkSetUrls>
+    <Url
+      Source="Advanced/IndexLinks.flixl" />
+  </SourceLinkSetUrls>
+  <UsedUrls>
+    <Url
+      Source="A_Introduction Topics/MoreInformation.htm"
+      Terms="Information" />
+    <Url
+      Source="A_Introduction Topics/WhatsNew.htm"
+      Terms="New features;Features:new" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>

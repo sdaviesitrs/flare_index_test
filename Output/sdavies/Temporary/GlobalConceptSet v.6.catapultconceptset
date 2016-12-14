@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/Users/sdavies/Documents/GitHub/Flare Index Test Project/Output/sdavies/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="Read First.pdf" />
+    <Url
+      Source="A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="A_Introduction Topics/Welcome.htm" />
+    <Url
+      Source="A_Introduction Topics/WhatsNew.htm" />
+    <Url
+      Source="B_Feature Topics/Feature1.htm" />
+    <Url
+      Source="B_Feature Topics/Feature2.htm" />
+    <Url
+      Source="B_Feature Topics/Feature3.htm" />
+    <Url
+      Source="B_Feature Topics/Features.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure1.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure2.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedure3.htm" />
+    <Url
+      Source="C_Procedure Topics/Procedures.htm" />
+    <Url
+      Source="Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="Resources/Stylesheets/styles.css" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>
